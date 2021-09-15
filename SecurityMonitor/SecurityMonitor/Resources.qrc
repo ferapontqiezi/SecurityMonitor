@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/myStyle.qss</file>
+        <file>icons/start.svg</file>
+        <file>icons/clean.svg</file>
+        <file>icons/error.svg</file>
+        <file>icons/OPEN.svg</file>
+        <file>icons/safe.svg</file>
+        <file>icons/start (1).svg</file>
+        <file>icons/warning.svg</file>
+        <file>icons/SecurityMonitor.svg</file>
+    </qresource>
+</RCC>

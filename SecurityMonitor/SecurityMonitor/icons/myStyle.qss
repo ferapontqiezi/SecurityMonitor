@@ -1,0 +1,43 @@
+QLabel {
+        font-size: 25px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #2E3648;
+
+}
+
+
+QTextEdit{
+        border-style: solid;
+        border-width: 1px;
+        border-color: #2E3648;
+        background: rgb(238,238,238);
+        font-size: 22px;
+}
+
+
+QTreeWidget {
+    border-radius: 5px;
+    font-size: 22px;
+    background: rgb(175,238,238);
+    outline: 0px;
+}
+QTreeWidget::item {
+    color: black;
+    background: rgb(175,238,238);
+        min-height: 30px;
+}
+QTreeWidget::item:alternate {
+    background: rgb(175,238,238);
+}
+QHeaderView {
+    color: black;
+    font: Times New Roman;
+    font-size: 20px;
+}
+QHeaderView::section {
+    background-color: rgb(255,192,203);
+    border: 1px;
+    font: Times New Roman;
+    font-size: 20px;
+}
